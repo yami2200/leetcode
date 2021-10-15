@@ -1,3 +1,3 @@
 pub fn solve(){
-    println!("MAELLLL !");
+    println!("yes !");
 }
