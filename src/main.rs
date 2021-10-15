@@ -1,6 +1,7 @@
 mod exercise1;
 mod exercise9;
 mod exercise13;
+mod exercise2;
 
 fn main() {
     test_exercise1();
