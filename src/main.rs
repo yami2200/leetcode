@@ -1,6 +1,7 @@
 //use std::time::Instant;
 
 mod exercise1;
+mod exercise3;
 mod exercise9;
 mod exercise13;
 mod exercise123;
@@ -10,6 +11,7 @@ fn main() {
     //println!("{}", now.elapsed().as_millis());
 
     test_exercise1();
+    test_exercise3();
     test_exercise9();
     test_exercise13();
     test_exercise123();
@@ -21,6 +23,14 @@ fn test_exercise1(){
     let target = 9;
     assert_eq!(exercise1::exercise1::two_sum(&nums, target), vec![0, 1]);
     assert_eq!(exercise1::exercise1::two_sum2(&nums, target), vec![0, 1]);
+}
+
+fn test_exercise3(){
+    assert_eq!(exercise3::exercise3::length_of_longest_substring("abcabcbb".to_string()), 3);
+    assert_eq!(exercise3::exercise3::length_of_longest_substring("bbbbb".to_string()), 1);
+    assert_eq!(exercise3::exercise3::length_of_longest_substring("pwwkew".to_string()), 3);
+    assert_eq!(exercise3::exercise3::length_of_longest_substring("".to_string()), 0);
+    assert_eq!(exercise3::exercise3::length_of_longest_substring("dvdf".to_string()), 3);
 }
 
 fn test_exercise9(){
