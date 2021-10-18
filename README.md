@@ -15,4 +15,5 @@
 |9. Palindrome Number|[Exercise9](src/exercise9/exercise9.rs)|🟩|
 |13. Roman to Integer|[Exercise13](src/exercise13/exercise13.rs)|🟩|
 |123. Best Time to Buy and Sell Stock III|[Exercise123](src/exercise123/exercise123.rs)|🟥|
+|993. Cousins in Binary Tree|[Exercise993](src/exercise993/exercise993.rs)|🟩|
 |1143. Longest Common Subsequence|[Exercise1143](src/exercise1143/exercise1143.rs)|🟨|
