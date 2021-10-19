@@ -14,6 +14,7 @@
 |4. Median of Two Sorted Arrays|[Exercise4](src/exercise4/exercise4.rs)|🟥|
 |9. Palindrome Number|[Exercise9](src/exercise9/exercise9.rs)|🟩|
 |13. Roman to Integer|[Exercise13](src/exercise13/exercise13.rs)|🟩|
+|14. Longest Common Prefix|[Exercise14](src/exercise14/exercise14.rs)|🟩|
 |123. Best Time to Buy and Sell Stock III|[Exercise123](src/exercise123/exercise123.rs)|🟥|
 |496. Next Greater Element I|[Exercise496](src/exercise496/exercise496.rs)|🟩|
 |993. Cousins in Binary Tree|[Exercise993](src/exercise993/exercise993.rs)|🟩|
