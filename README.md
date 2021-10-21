@@ -16,6 +16,7 @@
 |13. Roman to Integer|[Exercise13](src/exercise13/exercise13.rs)|🟩|
 |14. Longest Common Prefix|[Exercise14](src/exercise14/exercise14.rs)|🟩|
 |123. Best Time to Buy and Sell Stock III|[Exercise123](src/exercise123/exercise123.rs)|🟥|
+|380. Insert Delete GetRandom O(1)|[Exercise380](src/exercise380/exercise380.rs)|🟨|
 |496. Next Greater Element I|[Exercise496](src/exercise496/exercise496.rs)|🟩|
 |993. Cousins in Binary Tree|[Exercise993](src/exercise993/exercise993.rs)|🟩|
 |1143. Longest Common Subsequence|[Exercise1143](src/exercise1143/exercise1143.rs)|🟨|
